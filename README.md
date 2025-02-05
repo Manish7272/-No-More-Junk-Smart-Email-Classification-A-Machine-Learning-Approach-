@@ -1,5 +1,7 @@
 <h1> No More Junk: Smart Email Classification A Machine Learning Approach </h1>
 
+<p>Spam Email Detection App is a machine learning-powered web application that efficiently classifies emails as Spam or Not Spam using a trained predictive model. By leveraging advanced Machine Learning (ML) techniques and hyper perameter tuning methods, this app helps users identify and filter out unwanted or malicious emails, safeguarding them from phishing attempts, fraud, and unsolicited messages.</p>
+
 ![spamming](https://github.com/user-attachments/assets/1c835c39-f1f0-4bb7-9554-640d5aba27d4)
 
 <br>
@@ -13,6 +15,8 @@
 <hr>
 <br>
 <br>
+
+-   Workflow Overview:
 
 ![VS code, files, steps end to end](https://github.com/user-attachments/assets/05fde814-4e9a-41cb-a45e-595b15af3867)
 
